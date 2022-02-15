@@ -1,4 +1,4 @@
-# vue3_test
+# my-project
 
 ## Project setup
 ```
